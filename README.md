@@ -17,6 +17,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 *Apps and integrations.*
 
 * [App Store](https://apps.saleor.io/) - The list of apps available to use with Saleor.
+* [juspay/hyperswitch-saleor-payment-app](https://github.com/juspay/hyperswitch-saleor-payment-app) - Saleor Payments via Hyperswitch (payment orchestrator)
 
 ## Migration tools
 
