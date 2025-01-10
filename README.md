@@ -80,8 +80,6 @@ Here is the list of both official and community-built Saleor apps:
 - **[Simple Payment Gateway](https://github.com/djkato/saleor-apps-rs/tree/master/simple-payment-gateway)**  
   A payment gateway for methods that don't require validation (e.g., cash, COD, bank transfer).
 
----
-
 ## Tooling
 
 The following tools can help you work with Saleor more effectively:
