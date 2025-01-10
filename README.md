@@ -1,6 +1,6 @@
 # Awesome Saleor [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-An opinionated list of outstanding tools, libraries, and resources for Saleor. Inspired by the [awesome-python](https://github.com/vinta/awesome-python) repository.
+An opinionated list of awesome tools, libraries, and resources for Saleor. Inspired by the [awesome-python](https://github.com/vinta/awesome-python) repository.
 
 ---
 
