@@ -100,10 +100,10 @@ The following tools can help you work with Saleor more effectively:
   A Rust-based app template using Axum and the Rust SDK, ideal for apps that don't require dashboard integration.
 
 - **[Hono + Cloudflare Pages App template](https://github.com/witoszekdev/saleor-app-hono-cf-pages-template)**
-  Bolierplate for Saleor apps deployed for Cloudflare Pages using Hono app framework
+  Bolierplate for Saleor apps deployed for Cloudflare Pages using Hono app framework.
 
 - **[Hono + Deno App template](https://github.com/witoszekdev/saleor-app-hono-deno-template)**
-  Boilerplate for building Saleor apps in Deno runtime using Hono app framweork
+  Boilerplate for building Saleor apps in Deno runtime using Hono app framework.
   
 - **[Rust App Template UIᴺ](https://github.com/djkato/saleor-apps-rs)**  
   Uses Axum, Leptos, and the Rust SDK, enabling dashboard integration via WASM.
