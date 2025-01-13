@@ -111,10 +111,10 @@ The following tools can help you work with Saleor more effectively:
 - **[Rust App Template UI](https://github.com/djkato/saleor-apps-rs)**  
   Uses Axum, Leptos, and the Rust SDK, enabling dashboard integration via WASM.
 
-- **[Python App Template](https://github.com/mirumee/saleor-app-framework-python)
+- **[Python App Template](https://github.com/mirumee/saleor-app-framework-python)**
   Boilterplate for building Saleor apps in Python.
 
-- **[AWS Lambda App Template](https://github.com/mirumee/serverless-saleor-app-example)
+- **[AWS Lambda App Template](https://github.com/mirumee/serverless-saleor-app-example)**
   Example implementation of Saleor app using AWS Lambda
   
 - **[Theseus](https://github.com/p-febis/theseus)**  
