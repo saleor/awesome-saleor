@@ -105,7 +105,7 @@ The following tools can help you work with Saleor more effectively:
 - **[Hono + Deno App template](https://github.com/witoszekdev/saleor-app-hono-deno-template)**
   Boilerplate for building Saleor apps in Deno runtime using Hono app framework.
   
-- **[Rust App Template UIᴺ](https://github.com/djkato/saleor-apps-rs)**  
+- **[Rust App Template UI](https://github.com/djkato/saleor-apps-rs)**  
   Uses Axum, Leptos, and the Rust SDK, enabling dashboard integration via WASM.
   
 - **[Theseus](https://github.com/p-febis/theseus)**  
