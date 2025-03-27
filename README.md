@@ -6,10 +6,16 @@ An opinionated list of awesome tools, libraries, and resources for Saleor. Inspi
 
 ## Table of Contents
 
-- [Apps](#apps)
-- [Tooling](#tooling)
-- [Resources](#resources)
-- [Contributing](#contributing)
+- [Awesome Saleor](#awesome-saleor-)
+  - [Table of Contents](#table-of-contents)
+  - [Apps](#apps)
+  - [Tooling](#tooling)
+    - [JavaScript](#javascript)
+    - [Rust](#rust)
+    - [Python](#python)
+    - [Miscellaneous](#miscellaneous)
+  - [Resources](#resources)
+  - [Contributing](#contributing)
 
 ---
 
@@ -20,22 +26,22 @@ An opinionated list of awesome tools, libraries, and resources for Saleor. Inspi
 
 Here is the list of both official and community-built Saleor apps:
 
-- **[AvaTax](https://github.com/saleor/apps/tree/canary/apps/avatax)**  
+- **[AvaTax](https://github.com/saleor/apps/tree/main/apps/avatax)**  
   Integrates with the AvaTax API to calculate dynamic taxes.
   
-- **[CMS](https://github.com/saleor/apps/tree/canary/apps/cms-v2)**  
+- **[CMS](https://github.com/saleor/apps/tree/main/apps/cms)**  
   Enables one-way synchronization of Saleor products into supported CMS platforms such as Contentful, Strapi, DatoCMS, Builder.io, and Payload.
   
-- **[Klaviyo](https://github.com/saleor/apps/tree/canary/apps/klaviyo)**  
+- **[Klaviyo](https://github.com/saleor/apps/tree/main/apps/klaviyo)**  
   Sends Saleor events to Klaviyo for customer notifications.
   
-- **[Product Feed](https://github.com/saleor/apps/tree/canary/apps/products-feed)**  
+- **[Product Feed](https://github.com/saleor/apps/tree/main/apps/products-feed)**  
   Generates an XML feed of products and their details, compatible with Google Merchant Center.
   
-- **[Search](https://github.com/saleor/apps/tree/canary/apps/search)**  
+- **[Search](https://github.com/saleor/apps/tree/main/apps/search)**  
   Integrates Saleor with Algolia search for indexing and searching products.
   
-- **[SMTP](https://github.com/saleor/apps/tree/canary/apps/smtp)**  
+- **[SMTP](https://github.com/saleor/apps/tree/main/apps/smtp)**  
   Provides email communication with customers using Handlebars templating.
   
 - **[Stripe](https://github.com/saleor/saleor-app-payment-stripe)**  
@@ -84,6 +90,8 @@ Here is the list of both official and community-built Saleor apps:
 
 The following tools can help you work with Saleor more effectively:
 
+### JavaScript
+
 - **[Saleor App Template](https://github.com/saleor/saleor-app-template)**  
   A Next.js-based template using the Saleor App SDK.
   
@@ -92,7 +100,18 @@ The following tools can help you work with Saleor more effectively:
   
 - **[Saleor Storefront](https://github.com/saleor/storefront)**  
   A sample storefront built with Next.js and Tailwind CSS.
-  
+
+- **[Hono + Cloudflare Pages App template](https://github.com/witoszekdev/saleor-app-hono-cf-pages-template)**
+  Bolierplate for Saleor apps deployed for Cloudflare Pages using Hono app framework.
+
+- **[Hono + Deno App template](https://github.com/witoszekdev/saleor-app-hono-deno-template)**
+  Boilerplate for building Saleor apps in Deno runtime using Hono app framework.
+
+- **[AWS Lambda App Template](https://github.com/mirumee/serverless-saleor-app-example)**
+  Example implementation of Saleor app using AWS Lambda
+
+### Rust
+
 - **[Rust SDK](https://github.com/djkato/saleor-apps-rs)**  
   A community SDK for building Saleor apps with Rust.
   
@@ -102,21 +121,16 @@ The following tools can help you work with Saleor more effectively:
 - **[Rust App Template with HTMX](https://github.com/cozyGalvinism/saleor-app-rust-axum)**
   A Rust-based app template using Axum and HTMX, includes dashboard integration.
 
-- **[Hono + Cloudflare Pages App template](https://github.com/witoszekdev/saleor-app-hono-cf-pages-template)**
-  Bolierplate for Saleor apps deployed for Cloudflare Pages using Hono app framework.
-
-- **[Hono + Deno App template](https://github.com/witoszekdev/saleor-app-hono-deno-template)**
-  Boilerplate for building Saleor apps in Deno runtime using Hono app framework.
-  
 - **[Rust App Template UI](https://github.com/djkato/saleor-apps-rs)**  
   Uses Axum, Leptos, and the Rust SDK, enabling dashboard integration via WASM.
+
+### Python
 
 - **[Python App Template](https://github.com/mirumee/saleor-app-framework-python)**
   Boilterplate for building Saleor apps in Python.
 
-- **[AWS Lambda App Template](https://github.com/mirumee/serverless-saleor-app-example)**
-  Example implementation of Saleor app using AWS Lambda
-  
+### Miscellaneous
+
 - **[Theseus](https://github.com/p-febis/theseus)**  
   An importer written specifically for Saleor.
   
