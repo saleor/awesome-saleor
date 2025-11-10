@@ -137,6 +137,13 @@ The following tools can help you work with Saleor more effectively:
 - **[Unofficial Docker Builds of Saleor Apps](https://github.com/djkato/saleor-dockerize-all-apps)**  
   Provides Docker images for Saleor apps.
 
+- **[Example migration from SQL DB to Saleor with Rust](https://github.com/djkato/old-sql-shop-to-saleor-migration)**
+  A collection of Rust and Typescript based tools used to migrate an Elias based e-commerce to Saleor.
+  Includes:
+    - example tool for sql category tree generator, help making product type to category relations used during product upload (for stores comming from backends with no concept of product types)
+    - example tool for wiping all products, categories and product types
+    - example tool for querying MariaDB for products, categories, media, prices etc., then transforming them for and uploading to Saleor
+
 ---
 
 ## Resources
