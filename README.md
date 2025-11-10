@@ -9,6 +9,7 @@ An opinionated list of awesome tools, libraries, and resources for Saleor. Inspi
 - [Awesome Saleor](#awesome-saleor-)
   - [Table of Contents](#table-of-contents)
   - [Apps](#apps)
+  - [AI](#ai)
   - [Tooling](#tooling)
     - [JavaScript](#javascript)
     - [Rust](#rust)
@@ -86,6 +87,13 @@ Here is the list of both official and community-built Saleor apps:
 - **[Simple Payment Gateway](https://github.com/djkato/saleor-apps-rs/tree/master/simple-payment-gateway)**  
   A payment gateway for methods that don't require validation (e.g., cash, COD, bank transfer).
 
+## AI
+
+Below, you'll find all projects related to enabling and utilizing AI capabilities with Saleor:
+
+- **[Saleor MCP server](https://github.com/saleor/saleor-mcp/)**
+  Interact with the Saleor Commerce platform to fetch information about products, orders, and customers.
+
 ## Tooling
 
 The following tools can help you work with Saleor more effectively:
@@ -138,11 +146,11 @@ The following tools can help you work with Saleor more effectively:
   Provides Docker images for Saleor apps.
 
 - **[Example migration from SQL DB to Saleor with Rust](https://github.com/djkato/old-sql-shop-to-saleor-migration)**
-  A collection of Rust and Typescript based tools used to migrate an Elias based e-commerce to Saleor.
+  A collection of Rust and Typescript-based tools used to migrate an Elias-based e-commerce to Saleor.
   Includes:
-    - example tool for sql category tree generator, help making product type to category relations used during product upload (for stores comming from backends with no concept of product types)
-    - example tool for wiping all products, categories and product types
-    - example tool for querying MariaDB for products, categories, media, prices etc., then transforming them for and uploading to Saleor
+    - Example tool for SQL category tree generator, helps make product type to category relations used during product upload (for stores coming from backends with no concept of product types).
+    - Example tool for wiping all products, categories, and product types.
+    - Example tool for querying MariaDB for products, categories, media, prices, etc., then transforming them and uploading to Saleor.
 
 ---
 
