@@ -152,13 +152,16 @@ The following tools can help you work with Saleor more effectively:
     - Example tool for wiping all products, categories, and product types.
     - Example tool for querying MariaDB for products, categories, media, prices, etc., then transforming them and uploading to Saleor.
 
+- **[Saleor Configurator](https://github.com/saleor/configuarator)**  
+  A CLI that lets you create Saleor data models (products, attributes, etc.) as code.
+
 ---
 
 ## Resources
 
 Discover more about Saleor and access additional learning materials:
 
-- **[Saleor Discord](https://discord.gg/H52JTZAtSH)**  
+- **[Saleor Discord](https://saleor.io/discord)**  
   Join the Saleor community on Discord.
   
 - **[Saleor Docs](https://docs.saleor.io/)**  
