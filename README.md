@@ -94,6 +94,9 @@ Below, you'll find all projects related to enabling and utilizing AI capabilitie
 - **[Saleor MCP server](https://github.com/saleor/saleor-mcp/)**
   Interact with the Saleor Commerce platform to fetch information about products, orders, and customers.
 
+- **[Saleor Agentic Commerce](https://github.com/financedistrict-platform/saleor-agentic-commerce)**
+  Adds UCP and ACP endpoints to a Next.js storefront so AI agents can discover products and complete checkouts, with no Saleor backend changes.
+
 ## Tooling
 
 The following tools can help you work with Saleor more effectively:
