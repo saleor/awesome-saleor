@@ -160,9 +160,6 @@ The following tools can help you work with Saleor more effectively:
 ## Resources
 
 Discover more about Saleor and access additional learning materials:
-
-- **[Saleor Discord](https://saleor.io/discord)**  
-  Join the Saleor community on Discord.
   
 - **[Saleor Docs](https://docs.saleor.io/)**  
   Official Saleor documentation.
