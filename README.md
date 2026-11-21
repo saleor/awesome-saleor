@@ -87,6 +87,9 @@ Here is the list of both official and community-built Saleor apps:
 - **[Simple Payment Gateway](https://github.com/djkato/saleor-apps-rs/tree/master/simple-payment-gateway)**  
   A payment gateway for methods that don't require validation (e.g., cash, COD, bank transfer).
 
+- **[Payzum](https://github.com/payzum-dev/saleor-app-payment-payzum)**  
+  Accepts crypto and stablecoin payments (USDC/USDT, multi-chain) via the non-custodial Payzum gateway.
+
 ## AI
 
 Below, you'll find all projects related to enabling and utilizing AI capabilities with Saleor:
